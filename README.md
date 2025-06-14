@@ -1,1 +1,1 @@
-# PH-Hokkien-
+# A Philippine Hokkien Dictionary App that serves as a web app with PWA features having a basic list of words and search. This project hopes to preserve and evolve the language for learners and even beginners of the language. This app will have continuous updates from time to time.
